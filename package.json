@@ -1,0 +1,23 @@
+{
+  "name": "test_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavyKn/test_exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavyKn/test_exercise/issues"
+  },
+  "homepage": "https://github.com/DavyKn/test_exercise#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
